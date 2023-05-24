@@ -2,6 +2,8 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import ca.comp2501.assignment1.Address;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AddressTest

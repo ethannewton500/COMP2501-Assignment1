@@ -1,3 +1,6 @@
+package ca.comp2501.assignment1;
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -32,7 +35,6 @@ public class Agency
             this.agencyName = name;
             properties = new HashMap<>();
         }
-
     }
 
     /**

@@ -1,3 +1,5 @@
+package ca.comp2501.assignment1;
+
 /**
  * The property class creates property objects
  * @author Ethan Newton

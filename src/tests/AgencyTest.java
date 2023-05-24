@@ -6,6 +6,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
+import ca.comp2501.assignment1.Agency;
+import ca.comp2501.assignment1.Property;
+import ca.comp2501.assignment1.Address;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AgencyTest

@@ -1,3 +1,5 @@
+package ca.comp2501.assignment1;
+
 /**
  * The Address class creates address objects.
  * @author Ethan Newton
